@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ALX
+=======
+ echo "ALX"
+>>>>>>> fa81f9e62ceebaaff19506508508bfa658e42470
